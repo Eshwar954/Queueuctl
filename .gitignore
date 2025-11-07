@@ -1,0 +1,10 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+
+# SQLite database file
+queue.db
+
+# System files
+.DS_Store
+Thumbs.db
